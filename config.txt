@@ -1,0 +1,6 @@
+owner=333485269313650688
+prefix=!
+game=Pubg
+stayinchannel=true
+songinstatus=false
+token=NTc3MjYyNTg5MjM5NzU0Nzcz.XNif_w.nJyJxF6BVH85AqYzTQeBqJBV-wg
